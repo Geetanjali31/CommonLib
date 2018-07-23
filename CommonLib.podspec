@@ -37,6 +37,7 @@ s.source = { :git => "https://github.com/Geetanjali31/CommonLib.git", :tag => "#
 # 7
 s.framework = "UIKit", "CoreData"
 s.dependency 'Alamofire'
+s.dependency 'ReachabilitySwift'
 #s.dependency 'MBProgressHUD'
 
 # 8
