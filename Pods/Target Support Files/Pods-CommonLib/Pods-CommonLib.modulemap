@@ -1,0 +1,6 @@
+framework module Pods_CommonLib {
+  umbrella header "Pods-CommonLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
